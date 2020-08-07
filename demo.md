@@ -1,3 +1,9 @@
+Phương pháp phân tích:
+
+Chúng ta sẽ sử dụng trình duyệt firefox, truy cập vào trang và bấm f12, khi cần thông tin về code ở mục vào thì ta bấm chuột phải vào chọn inspect element, ta sẽ xem có event nào được thực hiện không, nếu có thì nhảy đến đường dẫn của event, xem hàm, các biến được thực hiện, đồng thời qua repository của jiti ở github tra hàm, biến đó còn có ở đâu nữa, từ đó sẽ tìm được chức năng mà chúng thực hiện.
+
+
+
 Tên của room được random tại:
 
 `https://github.com/jitsi/js-utils/blob/master/random/index.js`
