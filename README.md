@@ -381,6 +381,10 @@ var config = {
 
 Khởi động lại nginx `nginx -t && nginx -s reload`
 
+## Tính năng
+
+Những tính năng cơ bản của jitsi được viết tại đây: https://docs.google.com/document/d/118cT0L0-TaQQE9Ucf_ouamKKXGaTl94z8XY90f8Lh3Y/edit
+
 ## Phân tích code Jitsi
 
 ### Phương pháp phân tích:
